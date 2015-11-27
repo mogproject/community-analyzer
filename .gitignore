@@ -55,3 +55,20 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Test resources
+!/tests/resources/*
+
+# pyenv
+.python-version
+
+*.join
+*.gz
+
